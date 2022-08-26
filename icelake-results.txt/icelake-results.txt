@@ -1,0 +1,45 @@
+1. dataset - 5k rows
+
+    Workflow run using aikit
+    Time: 90.4192156791687
+
+    Workflow run using oneapi
+    Time: 95.28497648239136
+
+    Workflow run using stock python
+    Time: 201.16817235946655
+
+2. dataset - 10k rows
+
+    Workflow run using aikit
+    Time: 143.8727855682373
+
+    Workflow run using oneapi
+    Time: 142.9424285888672
+
+    Workflow run using stock python
+    Time: 327.850111246109
+
+
+
+3. dataset - 20k rows
+
+    Workflow run using aikit
+    Time: 356.0039916038513
+
+    Workflow run using oneapi
+    Time: 356.2177896499634
+
+    Workflow run using stock python
+    Time: 771.6089019775391
+
+4. dataset - 25k rows
+
+    Workflow run using aikit
+    Time: 465.6730329990387
+
+    Workflow run using oneapi
+    Time: 466.0761799812317
+
+    Workflow run using stock python
+    Time: 1029.3977344036102
